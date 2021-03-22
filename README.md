@@ -1,6 +1,6 @@
-**SCHOOL DISTRICT ANALYSIS  
+***SCHOOL DISTRICT ANALYSIS***  
 
-Overview**
+**Overview**
 
 This project is a mock scenario in which the chief data scientist for a city
 school is responsible for analyzing information from variety of sources and
@@ -28,9 +28,9 @@ for that school needed to be disregarded and the school district analysis to be
 repeated. Once new analysis is done a report on the new district summary was
 requested to describe how these changes affected the overall analysis.
 
-**Results  
+**Results**  
 
-**The new report shows the following:
+**The new report shows the following:**
 
 -   **How the district summary was affected:**
 
